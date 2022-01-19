@@ -1,0 +1,13 @@
+.headlineKlasse{
+  font-size:4rem;
+  color:blueviolet;
+  text-transform: uppercase;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.listeKlasse{
+  list-style-type:square;
+  font-size:2rem;
+  background-color: rgb(61, 225, 200);
+  width:30%;
+}
